@@ -1,6 +1,6 @@
 # aqa-code
 Код с лекций Автоматизация тестирования
-
+[![Build status](https://ci.appveyor.com/api/projects/status/kow14l5avsr6lxlf/branch/main?svg=true)](https://ci.appveyor.com/project/Kislitsina-Maria/api-2nd/branch/main)
 1. [x] [Основы автоматизации](basics/)
 1. [x] [Тестирование API, CI](api-ci/)
 1. [x] [Тестирование веб-интерфейсов](web/)
